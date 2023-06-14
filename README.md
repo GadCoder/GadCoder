@@ -8,9 +8,11 @@
 </h1>
 </div>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif" width="600" height="300"/>
-</div>
+
+---
+
+### :man_technologist: About Me :
+I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Peru 🇵🇪 .
 <!--
 **GadCoder/GadCoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
