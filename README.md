@@ -12,7 +12,7 @@
 ---
 
 ### :man_technologist: About Me :
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Peru 🇵🇪 .
+I am a Full Stack Developer from Peru 🇵🇪 .
 <!--
 **GadCoder/GadCoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
