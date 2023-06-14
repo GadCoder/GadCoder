@@ -4,7 +4,10 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/vqxviVfqGAa14SgeiC/giphy.gif" width="100"/>
 </div>
-
+<h1>
+  Hello there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
 <!--
 **GadCoder/GadCoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
