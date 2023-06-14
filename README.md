@@ -31,9 +31,9 @@ I'm a Software Engineering student at the National University of San Marcos in P
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>
 
 ---
-
+![GadCoder's GitHub stats](https://github-readme-stats.vercel.app/api?username=GadCoder&show_icons=true&theme=dracula)
 ### 😎 My Stats :
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GadCoder&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[!Most Used Lenguages](https://github-readme-stats.vercel.app/api/top-langs/?username=GadCoder&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 - 🔭 I’m currently working on ...
