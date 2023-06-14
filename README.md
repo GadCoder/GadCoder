@@ -33,7 +33,7 @@ I'm a Software Engineering student at the National University of San Marcos in P
 ---
 ![GadCoder's GitHub stats](https://github-readme-stats.vercel.app/api?username=GadCoder&show_icons=true&theme=dracula)
 ### 😎 My Stats :
-[!Most Used Lenguages](https://github-readme-stats.vercel.app/api/top-langs/?username=GadCoder&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+![Most Used Lenguages](https://github-readme-stats.vercel.app/api/top-langs/?username=GadCoder&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 - 🔭 I’m currently working on ...
