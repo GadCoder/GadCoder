@@ -31,8 +31,3 @@ I'm a Software Engineering student at the National University of San Marcos in P
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 
----
-### 😎 My Stats :
-![GadCoder's GitHub stats](https://github-readme-stats.vercel.app/api?username=GadCoder&show_icons=true&theme=dracula)
-
-![Most Used Lenguages](https://github-readme-stats.vercel.app/api/top-langs/?username=GadCoder&show_icons=true&theme=dracula)
