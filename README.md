@@ -13,7 +13,7 @@
 
 ### :man_technologist: About Me :
 
-I'm a Software Engineering student at the National University of San Marcos in Peru 🇵🇪.
+I'm a Software Engineering graduate from the National University of San Marcos in Peru 🇵🇪.
 - 🔭 Working as a fullstack developer
 - ⚡ Trying to be a cyclist 🚴‍♂️ and a photographer 📷 on my free time 
 
