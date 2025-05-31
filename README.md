@@ -14,7 +14,7 @@
 ### :man_technologist: About Me :
 
 I'm a Software Engineering graduate from the National University of San Marcos in Peru 🇵🇪.
-- 🔭 Working as a fullstack developer
+- 🔭 Working as a Product Engineer at ComparaOnline
 - ⚡ Trying to be a cyclist 🚴‍♂️ and a photographer 📷 on my free time 
 
 ---
